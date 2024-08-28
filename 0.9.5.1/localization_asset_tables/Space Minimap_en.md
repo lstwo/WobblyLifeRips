@@ -1,0 +1,25 @@
+# "Space Minimap_en"
+
+```"Suitcase Delivery Job"
+"Deliver suitcases around the Space Station"
+"Asteroid Defence Job"
+"Defend the Space Station from asteroids"
+"Space Mechanic Job"
+"Repair broken spaceships"
+"Asteroid Mining Job"
+"Mine space gems in an asteroid"
+"A Hungry Miner"
+"Collect the lunch from Cadet Brown"
+"Deliver the lunch to the Mining Boss"
+"Report back to Captain Aurora"
+"Get a milkshake for the Mining Boss"
+"Asteroid Anomaly
+"
+"Investigate the Obelisk"
+"Find Obelisk key part"
+"Activate the Obelisk"
+"Use the Obelisk"
+"Complete the Alien tasks"
+"Space Diner Job"
+"Deliver orders in the Space Diner"
+```
