@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19EA4281-DE33-4E64-9656-A630B0E35FE9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Space</RootNamespace>
+    <AssemblyName>Space</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FMODUnity" />
+    <Reference Include="Game" />
+    <Reference Include="HawkNetworking" />
+    <Reference Include="netstandard" />
+    <Reference Include="Rewired_Core" />
+    <Reference Include="Unity.Addressables" />
+    <Reference Include="Unity.Localization" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.AnimationModule" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.InputLegacyModule" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="Utils" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsteroidDefenceAsteroid.cs" />
+    <Compile Include="AsteroidDefenceAsteroidSplit.cs" />
+    <Compile Include="AsteroidDefenceAsteroidSplitData.cs" />
+    <Compile Include="AsteroidDefenceAsteroidSync.cs" />
+    <Compile Include="AsteroidDefenceHealthState.cs" />
+    <Compile Include="AsteroidDefenceJobInformation.cs" />
+    <Compile Include="AsteroidDefenceJobMission.cs" />
+    <Compile Include="AsteroidDefenceUI.cs" />
+    <Compile Include="AsteroidDefenceWave.cs" />
+    <Compile Include="AsteroidDefenceWaveSpawnData.cs" />
+    <Compile Include="AsteroidMiningMonster.cs" />
+    <Compile Include="ISpaceGravityAreaObjectCallback.cs" />
+    <Compile Include="ISpaceProjectileCallback.cs" />
+    <Compile Include="IVehicleSpace.cs" />
+    <Compile Include="PlayerSpaceHovercraft.cs" />
+    <Compile Include="PlayerSpaceHovercraftInput.cs" />
+    <Compile Include="PlayerSpaceHovercraftMovement.cs" />
+    <Compile Include="PlayerSpaceHovercraftSound.cs" />
+    <Compile Include="PlayerSpaceHovercraftTrailer.cs" />
+    <Compile Include="PlayerSpaceShip.cs" />
+    <Compile Include="PlayerSpaceShipAI.cs" />
+    <Compile Include="PlayerSpaceShipFeet.cs" />
+    <Compile Include="PlayerSpaceShipInput.cs" />
+    <Compile Include="PlayerSpaceShipMovement.cs" />
+    <Compile Include="PlayerSpaceShipSound.cs" />
+    <Compile Include="PlayerSpaceShipUpdateInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaveSpacePlayer.cs" />
+    <Compile Include="SpaceAirLock.cs" />
+    <Compile Include="SpaceAirLockDoorData.cs" />
+    <Compile Include="SpaceAirLockTrigger.cs" />
+    <Compile Include="SpaceAirMode.cs" />
+    <Compile Include="SpaceCameraTube.cs" />
+    <Compile Include="SpaceDefaultGravityArea.cs" />
+    <Compile Include="SpaceFuelHose.cs" />
+    <Compile Include="SpaceFuelHoseConnector.cs" />
+    <Compile Include="SpaceFuelPump.cs" />
+    <Compile Include="SpaceFuelPumpPump.cs" />
+    <Compile Include="SpaceGamemode.cs" />
+    <Compile Include="SpaceGravityArea.cs" />
+    <Compile Include="SpaceGravityLift.cs" />
+    <Compile Include="SpaceGravityRigidbody.cs" />
+    <Compile Include="SpaceHelmetShop.cs" />
+    <Compile Include="SpaceHelmetWardrobe.cs" />
+    <Compile Include="SpaceHovercraftInput.cs" />
+    <Compile Include="SpaceMechanicBays.cs" />
+    <Compile Include="SpaceMechanicJobInformation.cs" />
+    <Compile Include="SpaceMechanicJobMission.cs" />
+    <Compile Include="SpaceMechanicJobShip.cs" />
+    <Compile Include="SpaceMechanicJobShipCleaning.cs" />
+    <Compile Include="SpaceMechanicJobShipCleaningDirt.cs" />
+    <Compile Include="SpaceMechanicJobShipCleaningPacket.cs" />
+    <Compile Include="SpaceMechanicJobShipFeet.cs" />
+    <Compile Include="SpaceMechanicJobShipMissingPart.cs" />
+    <Compile Include="SpaceMechanicJobShipMissingParts.cs" />
+    <Compile Include="SpaceMechanicJobShipMissingPartsData.cs" />
+    <Compile Include="SpaceMechanicJobShipRefueling.cs" />
+    <Compile Include="SpaceMechanicJobShipTask.cs" />
+    <Compile Include="SpaceMechanicJobShipUnityEvents.cs" />
+    <Compile Include="SpaceMechanicJobWhiteBoard.cs" />
+    <Compile Include="SpaceMechanicJobWhiteBoardData.cs" />
+    <Compile Include="SpaceMechanicSpawnData.cs" />
+    <Compile Include="SpaceMechanicWhiteboard.cs" />
+    <Compile Include="SpaceMechnaicToolSpawn.cs" />
+    <Compile Include="SpacePlayerCharacter.cs" />
+    <Compile Include="SpacePlayerCharacterSound.cs" />
+    <Compile Include="SpacePlayerCharacterSpawnPoint.cs" />
+    <Compile Include="SpacePlayerController.cs" />
+    <Compile Include="SpacePlayerControllerEmployment.cs" />
+    <Compile Include="SpacePortCannon.cs" />
+    <Compile Include="SpacePortCannonInput.cs" />
+    <Compile Include="SpacePortCannonInputData.cs" />
+    <Compile Include="SpaceProjectile.cs" />
+    <Compile Include="SpaceProjectileData.cs" />
+    <Compile Include="SpaceRenderFarAway.cs" />
+    <Compile Include="SpaceShipInput.cs" />
+    <Compile Include="SpaceStation.cs" />
+    <Compile Include="SpaceTrafficManager.cs" />
+    <Compile Include="SpaceTrafficNode.cs" />
+    <Compile Include="SpaceTrafficNodeCallbacks.cs" />
+    <Compile Include="SpaceTrafficNodeDecider.cs" />
+    <Compile Include="SpaceTrafficNodeNext.cs" />
+    <Compile Include="SpaceTrafficNodeOnlyAllowOneShip.cs" />
+    <Compile Include="SpaceTrafficNodeSettings.cs" />
+    <Compile Include="SpaceTrafficNodeVehicleTriggerCheck.cs" />
+    <Compile Include="SpaceTrafficNodeWait.cs" />
+    <Compile Include="SpaceTube.cs" />
+    <Compile Include="SpaceTubeLock.cs" />
+    <Compile Include="UIPlayerBasedSpaceHelmetWardrobe.cs" />
+    <Compile Include="UIPlayerBasedSpaceShopHelmetCanvas.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
