@@ -1,0 +1,1 @@
+This file contains the *compiled* code to the **space update**. It can still be viewed in **dnspy** as C# code. This file was removed on the 25th of march 2024 in manifest [569644517413619108](https://steamdb.info/depot/1211023/history/?changeid=M:569644517413619108).
