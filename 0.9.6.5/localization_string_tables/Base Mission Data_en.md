@@ -1,6 +1,7 @@
 # "Base Mission Data_en"
 
-```"An Ancient Mystery"
+```
+"An Ancient Mystery"
 "Help the archaeologist in the Jungle find out what's behind the mysterious door."
 "Granny has sent you out into the world to do some work. She says it's about time you got a job!"
 "Complete Your First Job"

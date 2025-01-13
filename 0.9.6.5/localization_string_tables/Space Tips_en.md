@@ -1,6 +1,7 @@
 # "Space Tips_en"
 
-```"Tip: You can customize the color of your outfits at the Dye Machines in the Space Mall."
+```
+"Tip: You can customize the color of your outfits at the Dye Machines in the Space Mall."
 "Tip: You can customize the color of your personal spaceship in the Space Garage."
 "Tip: Completing all the objectives from a job in the required time will unlock that jobs outfit."
 "Tip: Use the vehicle terminals near landing pads to spawn your personal spaceship."

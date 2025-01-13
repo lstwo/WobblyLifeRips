@@ -1,6 +1,7 @@
 # "Space NPC Dialog_en"
 
-```"Hello"
+```
+"Hello"
 "Would you like some coffee?"
 "My programming says you will like it"
 "Seeing Wobbly Island from space never gets old"

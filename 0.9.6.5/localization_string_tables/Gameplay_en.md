@@ -1,6 +1,7 @@
 # "Gameplay_en"
 
-```"Fishing Stats"
+```
+"Fishing Stats"
 "Fish Found: {0}"
 "Total fish caught:"
 "Overfished Area"

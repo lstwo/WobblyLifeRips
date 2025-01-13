@@ -1,6 +1,7 @@
 # "Job_en"
 
-```"Devices collected 
+```
+"Devices collected 
 {0} / {1}"
 "Paint the statue these colors:"
 "Use a chisel to sculpt away at the marble untill you have a sculpture"

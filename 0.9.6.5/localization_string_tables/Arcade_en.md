@@ -1,6 +1,7 @@
 # "Arcade_en"
 
-```"This mode doesn't have a description "
+```
+"This mode doesn't have a description "
 "Only the server can access this"
 "There is no or more then 1 mod in"
 "Place the mod you want to upload in"

@@ -1,6 +1,7 @@
 # "Base Mission Dialog_en"
 
-```"This is the new bed from Wobbly Dream Inc."
+```
+"This is the new bed from Wobbly Dream Inc."
 "The "Sleepy Sleeper 3000"."
 "It features the latest in bed technology."
 "It "Makes all your dreams come true"."

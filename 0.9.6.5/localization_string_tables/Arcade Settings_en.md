@@ -1,6 +1,7 @@
 # "Arcade Settings_en"
 
-```"Night"
+```
+"Night"
 "Evening"
 "Day"
 "Morning"

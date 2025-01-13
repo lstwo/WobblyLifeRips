@@ -1,6 +1,7 @@
 # "Settings_en"
 
-```"Enable Player 1 Gamepad"
+```
+"Enable Player 1 Gamepad"
 "Sensitivity"
 "Look Invert Y"
 "Fov"

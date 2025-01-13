@@ -1,6 +1,7 @@
 # "Base NPC Dialog_en"
 
-```"Go outside and do some work"
+```
+"Go outside and do some work"
 "Stop playing all these video games"
 "There is a whole island out there to explore"
 "You can do it"

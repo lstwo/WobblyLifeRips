@@ -1,6 +1,7 @@
 # "Props_en"
 
-```"Gold Ring"
+```
+"Gold Ring"
 "Axe"
 "Fish"
 "Fridge"

@@ -1,6 +1,7 @@
 # "Emotes_en"
 
-```"<size=150%>Thanks
+```
+"<size=150%>Thanks
 <size=450%><sprite name=Emotes_Thanks></size>"
 "<size=150%>Need Help 
 <size=450%><sprite name=Emote_Helpme>"

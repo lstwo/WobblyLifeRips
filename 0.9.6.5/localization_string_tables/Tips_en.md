@@ -1,6 +1,7 @@
 # "Tips_en"
 
-```"Tip: If you own a house, you can use the telephone in it to spawn your personal vehicles."
+```
+"Tip: If you own a house, you can use the telephone in it to spawn your personal vehicles."
 "Tip: You can customize the color of your personal vehicles in the Vehicle Paint Shop"
 "Tip: Using ziplines is a fast way to explore the island."
 "Tip: Completing all the objectives from a job in the required time will unlock that job's outfit."

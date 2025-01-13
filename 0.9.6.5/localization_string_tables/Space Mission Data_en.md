@@ -1,6 +1,7 @@
 # "Space Mission Data_en"
 
-```"Space Cadets 01:  A Hungry Miner"
+```
+"Space Cadets 01:  A Hungry Miner"
 "You met Captain Aurora of the Space Cadets. She asked you to return the Mining Boss his lunch. You were told he will be in his control room on the Mining Asteroid. 
 
 The Captain said if you can do this for her she may let you become a Space Cadet."

@@ -1,6 +1,7 @@
 # "Space Rewards_en"
 
-```"Ship Mechanic Outfit"
+```
+"Ship Mechanic Outfit"
 "Space Suit"
 "Space Captain Outfit"
 "Asteroid Mining Suit"

@@ -1,6 +1,7 @@
 # "InputHints_en"
 
-```"Activate Data Hat"
+```
+"Activate Data Hat"
 "Deploy Parachute"
 "Cut Parachute"
 "Boost"

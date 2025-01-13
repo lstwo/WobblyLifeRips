@@ -1,6 +1,7 @@
 # "Space InputHints_en"
 
-```"Place Gravity Orb"
+```
+"Place Gravity Orb"
 "Cactus burst"
 "Throw Egg"
 "Turn on Foam Spray"

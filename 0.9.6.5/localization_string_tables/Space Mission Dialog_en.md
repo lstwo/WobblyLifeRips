@@ -1,6 +1,7 @@
 # "Space Mission Dialog_en"
 
-```"Ah my favourite Cadet."
+```
+"Ah my favourite Cadet."
 "I've got your next mission, and it's a strange one. But I think you can handle it."
 "We started receiving a mysterious signal from inside this asteroid a few weeks ago."
 "When we dug into the asteroid we found this Obelisk."
