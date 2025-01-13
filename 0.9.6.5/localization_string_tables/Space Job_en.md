@@ -1,0 +1,26 @@
+# "Space Job_en"
+
+```"Health: {0}"
+"Wave 1"
+"Wave 2"
+"Wave 3"
+"Wave 4"
+"Wave 5"
+"Ship Repairs"
+"Parts fixed: {0} / {1}"
+"Refuel ship:"
+"Ship washed: {0}%"
+"Fuel Pump"
+"Next:"
+"Rating :"
+"Money earnt: ${0}"
+"Ships fixed: {0} / {1}"
+"Money: ${0}"
+"Fires Left: {0}
+Wobblies to rescue: {1}
+Return Power to ship: {2} / {3}"
+"Ship is currently docking"
+"Trigger the undocking button"
+"Return to ship"
+"Restore Power"
+```
